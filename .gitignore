@@ -1,0 +1,16 @@
+# General - Root
+node_modules/
+vendor/
+.env
+composer.lock
+package-lock.json
+wp-config.php
+
+# General - Themes
+dist/
+
+# WP Installation
+/wp
+
+# WP Content
+/wp-content/uploads
